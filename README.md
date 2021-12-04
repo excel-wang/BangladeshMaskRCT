@@ -15,7 +15,7 @@ The final results will be displayed in the Results window in Stata (exponentiate
 
 ## Results
 
-Symptomatic Seroprevalence with random-effects models
+Symptomatic Seroprevalence with Poisson random-effects models
 
 |              |         Pooled with bc                  |         Pooled w.o. bc                  |   By mask type with bc                  |   By mask type w.o. bc                  |
 | ------------ | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
